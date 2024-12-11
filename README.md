@@ -11,7 +11,7 @@ Other Tools: Docker, CI/CD Pipelines, Firebase <br>
 
 📚 Always Learning  <br>
 I'm constantly exploring new technologies and improving my skills, 
-currently focusing on enhancing my expertise in state management and solidifying my foundational knowledge of Flutter,
+currently focusing on solidifying my foundational knowledge of Flutter,
 as well as deepening my proficiency in building robust backend systems with Spring Boot.
 
 💬 Let's Collaborate  <br>
