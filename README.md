@@ -3,11 +3,11 @@ Hello! I'm a passionate software developer with expertise in Flutter for buildin
 I thrive on crafting efficient, scalable, and user-friendly solutions.
 
 💼 Skills  <br>
-Mobile Development: Flutter (Dart), Material Design, Responsive UI, Clean Architecture
-Backend Development: Java Spring Boot, REST APIs, Microservices, DDD
-Database Management: MySQL, PostgreSQL, Oracle
-Version Control: Git, GitHub
-Other Tools: Docker, CI/CD Pipelines, Firebase
+Mobile Development: Flutter (Dart), Material Design, Responsive UI, Clean Architecture <br>
+Backend Development: Java Spring Boot, REST APIs, Microservices, DDD <br>
+Database Management: MySQL, PostgreSQL, Oracle <br>
+Version Control: Git, GitHub <br>
+Other Tools: Docker, CI/CD Pipelines, Firebase <br>
 
 📚 Always Learning  <br>
 I'm constantly exploring new technologies and improving my skills, 
